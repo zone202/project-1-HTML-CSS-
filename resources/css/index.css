@@ -1,0 +1,49 @@
+.banner{
+    background-color: blue;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 50px 0;
+
+}
+
+#small-drake {
+    height: 300px;
+    width: 500px;
+}
+
+#draken {
+    color: rgb(40, 20, 220);
+    font-size: 50px;
+    padding: 800px;
+}
+
+.bold {
+    font-weight: 900;
+    text-align: center;
+    border-style: solid;
+}
+
+#best {
+    color:red;
+    font-size: 100px;
+    text-align: center;
+    border: blue;
+    border-width: thick;
+    border-style: ridge;
+}
+
+#submit {
+    text-align: center;
+}
+
+#list {
+    background: blue;
+    color:white;
+    text-align: center;
+}
+
+ul { 
+    display: inline-block; 
+    text-align: left; 
+}
